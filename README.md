@@ -1,7 +1,7 @@
 # Password-Generator-
 ## Deployed Site Screenshot
 
-![Password-Generator-Website]()
+![Password-Generator-Website](https://github.com/jacksonpeak1/Password-Generator-/blob/main/screencapture-jacksonpeak1-github-io-Password-Generator-2021-03-20-16_48_48.png)
 
 --
 ## Site Link Below
